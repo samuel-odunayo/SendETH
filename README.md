@@ -20,8 +20,7 @@ _Frontend Components_
 * JavaScript: Vanilla JS with Ethers.js v6 for blockchain interactions
 * Ethers.js v6: Latest version with updated API for Ethereum interactions
 
-**Smart Contract Integration
-**
+**Smart Contract Integration**
 * Voting Contract: 0x35cd167FA931C6c5E07AbB2621846FC35D54baD6
 * Network: Sepolia Ethereum Testnet (Chain ID: 11155111)
 * ABI: Minimal interface for vote(uint256) function
